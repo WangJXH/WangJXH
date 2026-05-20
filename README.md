@@ -1,4 +1,4 @@
-## Hi, I'm Jingxuan 👋
+## Hi, I'm JX 👋
 
 HPC & Computational Mechanics Engineer building production-grade simulation 
 software for biomedical and engineering applications.
