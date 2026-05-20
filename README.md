@@ -15,4 +15,4 @@ finite-element software and MPI-based large-scale simulations on Linux clusters.
 > Core solver development lives in institutional repositories  
 > (EuroHPC dealii-X, SJTU multiphysics framework) — code samples available on request.
 
-📍 Milan, Italy &nbsp;|&nbsp; Open to industry roles in simulation software & HPC
+📍 Milan, Italy 
