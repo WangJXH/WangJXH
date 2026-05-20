@@ -14,4 +14,4 @@ software for biomedical and engineering applications.
 > Core solver development lives in institutional repositories  
 > (EuroHPC dealii-X, SJTU multiphysics framework) — code samples available on request.
 
-📍 Milan, Italy &nbsp;|&nbsp
+📍 Milan, Italy 
