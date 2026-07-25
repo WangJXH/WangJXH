@@ -13,6 +13,6 @@ finite-element software and MPI-based large-scale simulations on Linux clusters.
 **Stack:** C++17 · MPI · deal.II · Trilinos · CMake · SLURM · Python · Abaqus
 
 > Core solver development lives in institutional repositories  
-> (EuroHPC dealii-X, SJTU multiphysics framework) — code samples available on request.
+> (EuroHPC dealii-X, SJTU multiphysics framework) 
 
 📍 Milan, Italy 
